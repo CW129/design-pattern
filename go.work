@@ -1,0 +1,20 @@
+go 1.20
+
+use (
+	./adapter
+	./bridge
+	./chain
+	./command
+	./composite
+	./constructor/abstractFactory
+	./constructor/builder
+	./constructor/factoryMethod
+	./constructor/prototype
+	./constructor/singleton
+	./decorator
+	./facade
+	./flyweight
+	./iterator
+	./mediator
+	./proxy
+)
