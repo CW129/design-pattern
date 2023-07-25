@@ -16,5 +16,6 @@ use (
 	./flyweight
 	./iterator
 	./mediator
+	./memento
 	./proxy
 )
