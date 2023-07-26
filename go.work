@@ -19,4 +19,5 @@ use (
 	./memento
 	./observer
 	./proxy
+	./status
 )
