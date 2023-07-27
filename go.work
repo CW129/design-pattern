@@ -20,4 +20,5 @@ use (
 	./observer
 	./proxy
 	./status
+	./strategy
 )
