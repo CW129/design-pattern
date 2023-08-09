@@ -21,6 +21,6 @@ use (
 	./structuralPattern/facade
 	./structuralPattern/flyweight
 	./structuralPattern/proxy
-	./templateMethod
-	./visitor
+	./behavioralPattern/templateMethod
+	./behavioralPattern/visitor
 )

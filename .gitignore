@@ -1,0 +1,5 @@
+# ignore go.work
+go.work
+
+# ignore go.mod
+*.mod
